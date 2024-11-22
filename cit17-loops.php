@@ -373,7 +373,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 PHP Loops Activity Delena Aldrin M CIT17-CITCS 3F</p>
+        <p>&copy; 2024 PHP Loops Activity Maglatang Rodrigo N. CIT17-CITCS 3F</p>
     </footer>
 </body>
 </html>
